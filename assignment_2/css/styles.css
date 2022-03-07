@@ -65,7 +65,7 @@ header a:hover {
 
 #showcase {
     min-height: 400px;
-    background: url('../images/unsplash.jpg');
+    background: url('../images/unsplash_image.jpg');
     text-align: center;
     color: #ffffff;
     background-repeat: no-repeat;
@@ -106,7 +106,7 @@ footer {
     padding: 20px;
     margin-top: 20px;
     color: #fff;
-    background-color: #ffc600;
+    background-color: #35424a;
     text-align: center;
     position: fixed;
     left: 0;
@@ -149,7 +149,7 @@ aside#sidebar .quote textarea {
 
 .button_1 {
     height: 30px;
-    background: #ffc600;
+    background: #35424a;
     border: 0;
     padding-left: 20px;
     padding-right: 20px;
