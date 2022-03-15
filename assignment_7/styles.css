@@ -1,0 +1,44 @@
+body{
+    background-color: #F68989;
+}
+
+.form-heading{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 2.5rem 5rem;
+    padding: 1rem 1rem;
+    width: auto;
+    text-align: center;
+    color: #F6E7D8;
+    background-color: #874356;
+}
+
+.form-data {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 2.5rem 5rem;
+    padding: 1rem 1rem;
+    color: #F6E7D8;
+    background-color: #874356;
+}
+
+.form-table {
+    border-collapse: separate;
+    border-spacing: 0 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.form-values {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 2.5rem 5rem;
+    padding: 1rem 1rem;
+    color: #F6E7D8;
+    background-color: #874356;
+}
