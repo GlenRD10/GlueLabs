@@ -1,0 +1,10 @@
+.heroCard {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+    float: left;
+    background-color: #F1D00A;
+    width: 19rem;
+    height: 35rem;
+    margin: 1.35rem;
+    padding: 1rem;
+}

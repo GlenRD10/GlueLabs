@@ -1,0 +1,15 @@
+.pageFooter{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: brown;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+.footerContent {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
